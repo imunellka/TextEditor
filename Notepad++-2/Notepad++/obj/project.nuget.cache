@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJ9VsOBm8URaQef1fss5QD+3xcQvceUaowtPKS0cD4OT+p8qouTv9VVSvTY+EF9dMQlVBU6ypekV0iJbNuFRVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitaminka\\Desktop\\Notepad++\\Notepad++\\Notepad++.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitaminka\\.nuget\\packages\\fctb\\2.16.24\\fctb.2.16.24.nupkg.sha512",
+    "C:\\Users\\vitaminka\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FCTB 2.16.24' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FCTB",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

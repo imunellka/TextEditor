@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vitaminka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vitaminka\\.nuget\\packages"
+    ]
+  }
+}
